@@ -1,6 +1,6 @@
 ![alt text](https://i.imgur.com/1N4AZjE.png)
 
-# ⚡⚡⚡⚡⚡⚡⚡ The Flux Capacitor ⚡⚡⚡⚡⚡⚡⚡ </br> (A Dynamic Lightning Network PoS Device) 
+# ⚡⚡⚡⚡⚡⚡⚡ The Flux Capacitor ⚡⚡⚡⚡⚡⚡⚡ </br> (A Dynamic Lightning Network Point of Sale Device) 
 
 ## *"I slipped, hit my head on the sink, and when I came to I had a revelation!  A vision!  A picture in my head!  A picture of this!"*
 
