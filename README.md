@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/mGXVLvi.png)
+![alt text](https://i.imgur.com/1N4AZjE.png)
 
 # ⚡⚡⚡⚡⚡⚡⚡ The Flux Capacitor ⚡⚡⚡⚡⚡⚡⚡ </br> (A Dynamic Lightning Network PoS Device) 
 
