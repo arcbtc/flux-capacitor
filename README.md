@@ -10,7 +10,7 @@ A merchant therefore, could accept bitcoin over LN using a Flux Capacitor, have 
 
 Although the Flux Capacitor focuses on ease of access and current merchant behaviour, if the merchant were in the position where they wanted to switch to managing their own LN node, they could easily switch the Flux Capacitor to connect directly to an LN node.
 
-[![LN Slave Mod](https://i.imgur.com/K9awdFf.png)](https://www.youtube.com/watch?v=Sa8v)
+[![LN Slave Mod](https://i.imgur.com/K9awdFf.png)](https://www.youtube.com/watch?v=yxiafO4Tc-A)
 
 ## Hardware needed
 
