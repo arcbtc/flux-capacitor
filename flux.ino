@@ -515,7 +515,6 @@ void checkpay () {
   JsonObject& root = jsonBuffer.parseObject(response);
 
   String paymentpaid = root["paid"];
-  jsonBuffer.clear();
   response = "";
   PAYMENTPAID = paymentpaid;
 
@@ -529,7 +528,7 @@ void keypadamount(){
   const GFXfont* f = &FreeSansBold12pt7b;
   display.fillScreen(GxEPD_WHITE);
   display.setTextColor(GxEPD_BLACK);
-  display.setRotation(135);
+  display.setRotation(1);
   display.setFont(f);
   display.setCursor(0, 0);
   display.println();
@@ -544,7 +543,7 @@ void keypadamount(){
 
   display.fillScreen(GxEPD_WHITE);
   display.setTextColor(GxEPD_BLACK);
-  display.setRotation(135);
+  display.setRotation(1);
   display.setFont(f);
   display.setCursor(0, 0);
   display.println();
@@ -606,7 +605,7 @@ void showPartialUpdate(String satoshisString)
   uint16_t box_h = 40;
   uint16_t cursor_y = box_y + 16;
 
-  display.setRotation(135);
+  display.setRotation(1);
   display.setFont(f);
   display.setTextColor(GxEPD_BLACK);
 
@@ -641,7 +640,6 @@ void fetchpay(String invoiceamount) {
   PAYMENTPAID = paymentpaid;
   String paymentreq = root["payment_request"];
   PAYMENT = paymentreq;
-  jsonBuffer.clear();
   response = "";
 }
 
