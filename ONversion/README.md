@@ -1,5 +1,5 @@
 
-# ⚡⚡⚡⚡⚡⚡⚡ OpenNode Edition⚡⚡⚡⚡⚡⚡⚡ </br> (A dynamic Lightning Network point of sale device) 
+# ⚡⚡⚡⚡⚡⚡⚡ Flux Capacitor⚡⚡⚡⚡⚡⚡⚡ </br> ⚡⚡⚡⚡⚡⚡ OpenNode Edition⚡⚡⚡⚡⚡⚡⚡ </br>  (A dynamic Lightning Network point of sale device) 
 
 ## *"I slipped, hit my head on the sink, and when I came to I had a revelation!  A vision!  A picture in my head!  A picture of this!"*
 
