@@ -25,7 +25,7 @@ String amount = "";
 String apikey = "YOUR-API-KEY-FROM-OPENNODE-GOES-HERE";
 String description = "FLUX"; //invoice description
 String hints = "false"; 
-String on_currency = "BTCGBP";
+String on_currency = "BTCGBP"; //change to your currency ie BTCUSD, BTCEUR, etc
 String price;
 
 String data_lightning_invoice_payreq = "";
