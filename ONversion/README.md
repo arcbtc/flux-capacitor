@@ -8,7 +8,7 @@ Currently the Flux Capacitor focuses on ease of use, the concept being a small/c
 Set up an account with OpenNode here:
 https://opennode.co/join/f774f2a0-1377-45e2-b719-6b821f24900d
 
-[![LN Slave Mod](https://i.imgur.com/vIvMD1p.jpg)](https://www.youtube.com/watch?v=yxiafO4Tc-A)
+[![LN Slave Mod](https://i.imgur.com/vIvMD1p.jpg)](https://www.youtube.com/watch?v=7tBzgFHGsi0)
 
 ## Hardware needed (<$20)
 
