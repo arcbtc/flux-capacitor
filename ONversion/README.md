@@ -10,10 +10,10 @@ https://opennode.co/join/f774f2a0-1377-45e2-b719-6b821f24900d
 
 [![LN Slave Mod](https://i.imgur.com/vIvMD1p.jpg)](https://www.youtube.com/watch?v=yxiafO4Tc-A)
 
-## Hardware needed
+## Hardware needed (<$20)
 
 * ESP32 (without built in OLED!)
-* Waveshare 1.54inch Epaper module
+* MH-ET-LIVE Epaper module 1.54inch
 * LED (optional)
 * Adhesive Arduino Keyboard
 * Wires and stuff
