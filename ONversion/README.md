@@ -30,8 +30,8 @@ In order to get a smaller keypad I trimmed a very standard module availible onli
 
 ![SPI PINS image](https://i.imgur.com/6ERVnAr.jpg)
 
-Epaper to ESP32 SPI connection example:
-![SPI PINS image](https://i.imgur.com/zA1dRbD.jpg)
+MH-ET-LIVE Epaper to ESP32 SPI connection example:
+![SPI PINS image](https://i.imgur.com/wXOERPp.png)
 
 1.21 sends an ON to GPIO PIN 17 for 2 secs, which can be adjusted in the code: 
 
