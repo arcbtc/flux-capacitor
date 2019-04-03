@@ -187,10 +187,10 @@ fetchpayment(amount);
   display.setFont(&FreeSansBold12pt7b);
   display.setTextColor(GxEPD_BLACK);
   display.setCursor(20, 20);
-  display.println("Sleeping");
+  display.println("Ready");
   display.println("");
   display.setFont(&FreeSansBold9pt7b);
-  display.println("Press button to wake");
+  display.println("Press button to start");
 
   }
   while (display.nextPage());{
