@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
 
-#include <ArduinoJson.h> 
+#include <ArduinoJson.h> //Use version 5.3.0!
 #include <GxEPD2_BW.h>
 #include <GxEPD2_3C.h>
 #include <qrcode.h>
